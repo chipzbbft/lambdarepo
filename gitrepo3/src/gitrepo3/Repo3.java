@@ -17,7 +17,7 @@ public class Repo3 {
 		            driver.findElement(By.name("password")).sendKeys("poqer2345");
 		            driver.findElement(By.xpath("//*[@id=\"content\"]/div/div[2]/div/div/form/input")).click();
 		            
-		            System.out.println("Successfully logged in");
+		            System.out.println("logged succesfully");
 		            
 
 
